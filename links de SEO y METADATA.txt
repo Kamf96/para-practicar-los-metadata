@@ -1,0 +1,6 @@
+https://ogp.me/
+https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/guides/parameter-reference1
+https://developer.twitter.com/en/docs/twitter-for-websites/javascript-api/guides/set-up-twitter-for-websites
+https://developers.facebook.com/docs/plugins/share-button/
+https://developer.mozilla.org/es/docs/HTML/HTML5/HTML5_lista_elementos
+https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/Metados_en
